@@ -1,1 +1,1 @@
-![I am GitHub Readme Generator's creator](https://github.com/yvetteekon/yvetteekon/blob/main/CORPORATE2_RESIZED_V2.PNG)
+![I am GitHub Readme Generator's creator](https://github.com/yvetteekon/yvetteekon/blob/main/CORPORATE2_RESIZED.PNG)
