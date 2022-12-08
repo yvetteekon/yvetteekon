@@ -1,11 +1,40 @@
 ![I am GitHub Readme Generator's creator](https://github.com/yvetteekon/yvetteekon/blob/main/CORPORATE_RESIZED_V4.png)
 
-### Hi there 👋
+### Hi there! 👋
 
-- 🔭 I’m currently working on my pet project
+### I'm [**Yvette**](https://www.linkedin.com/in/yvettekondoh/), a **`Data Scientist`** based in San Jose, Carlifonia. 
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/yvetteekon)
+<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=yvetteekon&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
+<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/yvetteekon?color=971901&logo=githubb&label=FOLLOWERS"/>
+
+<a href="https://www.linkedin.com/in/ndleah/">
+  <img align="left" alt="Yvette's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/yvetteekon">
+  <img align="left" alt="Yvette's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://medium.com/@ykondoh">
+  <img align="left" alt="Yvette's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<br />
+
+
+<img align="right" height="250" width="375" alt="GIF" src="IMG/quote.gif" />
+
+- 🔭 I hold a Bachelor's Degree in Actuarial Science (Kwame Nkrumah University of Science and Technology, Kumasi-Ghana)
+- 🔭 I hold a Master's Degree in Applied Statistics (Loyola University Chicago, Chicago-USA)
+- 🌱 I’m currently working on my pet data science project
 - 🌱 I’m currently learning AWS cloud computing
-- 📫 How to reach me: yvetteekon@gmail.com
+- 🌱 I’m interested in learning Data Engineering
+- 📫 You can reach me via email: yvetteekon@gmail.com
 - ⚡ Quote I live by: "Anything worth doing well is worth training for" - PCO 
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+
+---
 
 [<img align="left" alt="yvetteekon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="yvetteekon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][linkedin]
@@ -62,47 +91,11 @@
 [linkedin]: https://linkedin.com/in/annaarsentieva
 [portfolio]: https://arsentieva.github.io/profile/
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/ndleah)
-<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=ndleah&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
-<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/ndleah?color=971901&logo=githubb&label=FOLLOWERS"/>
-
-<a href="https://www.linkedin.com/in/ndleah/">
-  <img align="left" alt="Leah's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/ndleah">
-  <img align="left" alt="Leah's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://medium.com/@ndleah">
-  <img align="left" alt="Leah's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://instagram.com/anhmeu/">
-  <img align="left" alt="Leah's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://discordapp.com/users/329565478794297345">
-  <img align="left" alt="Leah's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://open.spotify.com/user/217rxnq3w6x3eqehrvodhv75y?si=b947163133844bc2">
-  <img align="left" alt="Leah's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
-</a>
-<br />
-
-## I'm [**Leah**](https://www.linkedin.com/in/ndleah/) and welcome to my GitHub profile! :octocat:
-
-<img align="right" height="250" width="375" alt="GIF" src="IMG/quote.gif" />
-
-I'm a **`Data Science practitioner`**, an **`Open-source Contributor`** and a **`Content Creator`**!
-
-❤️ **Fun facts:**
-
-* 👩‍🎓 Before switching to Data Science, I'm a Marketing enthusiast who got a Bachelor's Degree in Business. 
-* ✍️ Currently pursuing Master's Degree of Data Science and Innovation (MDSI) from the [**University of Technology Sydney**](https://www.uts.edu.au/) to improve my knowledge as a data scientist. 
-* ✨ Spend hours to beautify my code and GitHub markdown because my OCD cannot stand reading sloppy documentation. 
-* 🤔 I don’t trust people who don’t write SQL queries in uppercase.
-* 📈 Particularly interested in **`Predictive Analytics`**, **`Machine Learning`** and applying statistical models to solve interesting novel business problems.
 
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 
----
+
+
+
+
