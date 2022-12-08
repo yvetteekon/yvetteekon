@@ -25,11 +25,10 @@
 
 <img align="right" height="250" width="375" alt="PNG" src="female-coding-in-sofa-flipped.PNG" />
 
-- 🔭 I hold a Bachelor's Degree in Actuarial Science (Kwame Nkrumah University of Science and Technology, Kumasi-Ghana)
-- 🔭 I hold a Master's Degree in Applied Statistics (Loyola University Chicago, Chicago-USA)
-- 🌱 I’m currently working on my pet data science project
+- 🔭 I hold a Bachelor's and Master's Degree in Actuarial Science and Applied Statistics respectively
+- :dart I’m currently working on my [*pet data science project*](https://github.com/yvetteekon/user-subscription-analytics)
 - 🌱 I’m currently learning AWS cloud computing
-- 🌱 I’m interested in learning Data Engineering
+- 🌱 I’m interested in Data Engineering projects
 - 📫 You can reach me via email: yvetteekon@gmail.com
 - ⚡ Quote I live by: "Anything worth doing well is worth training for" - PCO 
 
