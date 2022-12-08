@@ -31,13 +31,15 @@
 - ✍️ I’m currently learning AWS cloud computing
 - 🏆 I love to participate in data science competitions: [*datacamp*](https://app.datacamp.com/learn/competitions/reducing-employee-turnover?activeTab=competition-entries)
 - 📫 You can reach me via email: *yvetteekon@gmail.com*
-- ⚡ Quote I live by: "Anything worth doing well is worth training for" - PCO 
+- 💬 Quote I live by: **"Anything worth doing well is worth training for"** - PCO 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 
 ---
+
+## 📈 Metrics
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -52,15 +54,6 @@
 <img align="left" alt="Yvette's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvetteekon" />
 
 </details>
-
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
-
-
-
 
 ![GitHub metrics](https://metrics.lecoq.io/yvetteekon)  
 
