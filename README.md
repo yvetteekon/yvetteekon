@@ -49,4 +49,5 @@
 
 ### <img src="https://media.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif" width="30"> Metrics
 
-![Metrics](https://metrics.lecoq.io/yvetteekon?template=classic&languages=1&isocalendar=1&achievements=1&activity=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&repositories.featured=insights?user=yvetteekon#:~:text=yvetteekon/employee%2Dattrition&config.twemoji=true&config.display=large)
+![GitHub metrics](https://metrics.lecoq.io/yvetteekon)  
+
