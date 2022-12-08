@@ -8,19 +8,22 @@
 <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=yvetteekon&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
 <img alt="FOLLOWERS" src="https://img.shields.io/github/followers/yvetteekon?color=971901&logo=githubb&label=FOLLOWERS"/>
 
-<a href="https://www.linkedin.com/in/yvetteekon/">
+<a href="https://www.linkedin.com/in/yvettekondoh/">
   <img align="left" alt="Yvette's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/yvetteekon">
-  <img align="left" alt="Yvette's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://medium.com/@ykondoh">
   <img align="left" alt="Yvette's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<a href="https://medium.com/@ykondoh">
+  <img align="left" alt="Yvette's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cloud.svg" />
+</a>
+<a href="https://github.com/yvetteekon">
+  <img align="left" alt="Yvette's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 <br />
 
 
-<img align="right" height="250" width="375" alt="PNG" src="female-coding-in-sofa-flipped.png" />
+<img align="right" height="250" width="375" alt="PNG" src="female-coding-in-sofa-flipped.PNG" />
 
 - 🔭 I hold a Bachelor's Degree in Actuarial Science (Kwame Nkrumah University of Science and Technology, Kumasi-Ghana)
 - 🔭 I hold a Master's Degree in Applied Statistics (Loyola University Chicago, Chicago-USA)
