@@ -5,7 +5,7 @@
 ### I'm [**Yvette**](https://www.linkedin.com/in/yvettekondoh/), a **`Data Scientist`** based in San Jose, Carlifonia. 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/yvetteekon)
-<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=yvetteekon&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
+<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=yvetteekon&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=FFD800"/>
 <img alt="FOLLOWERS" src="https://img.shields.io/github/followers/yvetteekon?color=971901&logo=githubb&label=FOLLOWERS"/>
 
 <a href="https://www.linkedin.com/in/yvettekondoh/">
