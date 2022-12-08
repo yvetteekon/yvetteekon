@@ -39,25 +39,32 @@
 
 ---
 
-## 📈 Metrics
+### 📈 Metrics
 
 ![Metrics](https://metrics.lecoq.io/yvetteekon?template=classic&languages=1&isocalendar=1&achievements=1&activity=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&repositories.featured=ndleah%2Fself-quantified-data-analysis%2C%20ndleah%2F8-Week-SQL-Challenge%2C%20ndleah%2Fnorthwind-company-analysis%2C%20ndleah%2Fdvd-rental-marketing-analytics%2C%20ndleah%2Fcurrency-converter%2C%20ndleah%2FData_Explorer_Web_App&config.twemoji=true&config.display=large)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-  <img align="left" alt="Yvette's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yvetteekon&show_icons=true&theme=merko&count_private=true&hide=contribs,prs" />
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-</details>
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
+- 🔭 I’m currently working on this page. 
 
-<img align="left" alt="Yvette's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvetteekon" />
 
-</details>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yvetteekon)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yvetteekon)  
 
 ![GitHub metrics](https://metrics.lecoq.io/yvetteekon)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=yvetteekon)  
+
+![Profile views](https://gpvc.arturio.dev/yvetteekon)  
 
 
 
