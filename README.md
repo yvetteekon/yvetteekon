@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/yvetteekon/yvetteekon/blob/main/CORPORATE_RESIZED_V4.png)
+![I am GitHub Readme Generator's creator](https://github.com/yvetteekon/yvetteekon/blob/main/img/profile_banner.png)
 
 ### Hi there! 👋
 
@@ -25,7 +25,7 @@
 
 <img align="right" height="250" width="375" alt="PNG" src="female-coding-in-sofa-flipped.PNG" />
 
-- 🎓 I hold a Bachelor's and Master's Degree in Actuarial Science and Applied Statistics respectively
+- 🎓 I hold Bachelor and Master Degrees in Actuarial Science and Applied Statistics respectively
 - 💻 You can find my projects [*here*](https://yvetteekon.github.io/)
 - 🎯 I’m currently working on my [*pet data science project*](https://github.com/yvetteekon/user-subscription-analytics)
 - ✍️ I’m currently learning AWS cloud computing
