@@ -15,7 +15,7 @@
   <img align="left" alt="Yvette's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://yvetteekon.github.io/">
-  <img align="left" alt="Yvette's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/portfolio.svg" />
+  <img align="left" alt="Yvette's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" />
 </a>
 <a href="https://github.com/yvetteekon">
   <img align="left" alt="Yvette's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -30,9 +30,7 @@
 - 🌱 I’m currently working on my pet data science project
 - 🌱 I’m currently learning AWS cloud computing
 - 🌱 I’m interested in learning Data Engineering
-- 📫 You can reach me via email: <a href="yvetteekon@gmail.com">
-  <img align="left" alt="Yvette's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+- 📫 You can reach me via email: yvetteekon@gmail.com
 - ⚡ Quote I live by: "Anything worth doing well is worth training for" - PCO 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
