@@ -28,7 +28,7 @@
 - 🔭 I hold a Bachelor's and Master's Degree in Actuarial Science and Applied Statistics respectively
 - :dart I’m currently working on my [*pet data science project*](https://github.com/yvetteekon/user-subscription-analytics)
 - 🌱 I’m currently learning AWS cloud computing
-- 🌱 I’m interested in Data Engineering projects
+- 🌱 I love to participate in data science competitions: [*datacamp*](https://app.datacamp.com/learn/competitions/reducing-employee-turnover?activeTab=competition-entries)
 - 📫 You can reach me via email: yvetteekon@gmail.com
 - ⚡ Quote I live by: "Anything worth doing well is worth training for" - PCO 
 
