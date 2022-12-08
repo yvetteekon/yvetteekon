@@ -30,7 +30,7 @@
 - 🎯 I’m currently working on my [*pet data science project*](https://github.com/yvetteekon/user-subscription-analytics)
 - ✍️ I’m currently learning AWS cloud computing
 - 🏆 I love to participate in data science competitions: [*datacamp*](https://app.datacamp.com/learn/competitions/reducing-employee-turnover?activeTab=competition-entries)
-- 📫 You can reach me via email: [*yvetteekon@gmail.com*]
+- 📫 You can reach me via email: *yvetteekon@gmail.com*
 - ⚡ Quote I live by: "Anything worth doing well is worth training for" - PCO 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
@@ -39,20 +39,17 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yvetteekon&show_icons=true&theme=merko&count_private=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="Yvette's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yvetteekon&show_icons=true&theme=merko&count_private=true&hide=contribs,prs" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+<img align="left" alt="Yvette's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvetteekon" />
 
 </details>
 
