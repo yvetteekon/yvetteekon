@@ -20,6 +20,9 @@
 <a href="https://medium.com/@ykondoh">
   <img align="left" alt="Yvette's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<a href="https://www.datacamp.com/profile/yvetteekon">
+  <img align="left" alt="Yvette's Datacamp Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/datacamp.svg" />
+</a>
 <br />
 
 
@@ -39,7 +42,7 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 
 
-<img src="https://media.giphy.com/media/UMyvk17PIo3SiZQWju/giphy.gif" width="30"> **Competition Entries:**
+<img src="https://media.giphy.com/media/UMyvk17PIo3SiZQWju/giphy.gif" width="30"> **Data Competition Entries:**
 
 - “Can you help reduce employee attrition?” | March 2022 |  <font color='darkgreen'>**5th Position**</font> [*datacamp*](https://app.datacamp.com/learn/competitions/reducing-employee-turnover?activeTab=competition-entries)
 - “How can the company improve collaboration” | November 2022 | Pending Results [*datacamp*](https://app.datacamp.com/learn/competitions/employee-network-analysis?activeTab=competition-entries)
