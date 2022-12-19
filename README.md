@@ -44,7 +44,7 @@
 
 <img src="https://media.giphy.com/media/UMyvk17PIo3SiZQWju/giphy.gif" width="30"> **Data Competition Entries:**
 
-- “Can you help reduce employee attrition?” | March 2022 |  <font color='darkgreen'>**5th Position**</font> [*datacamp*](https://app.datacamp.com/workspace/w/ab949f18-f50d-43b4-bb97-750ec06510bd)
+- “Can you help reduce employee attrition?” | March 2022 |  <font color='darkgreen'>**`5th Position`**</font> [*datacamp*](https://app.datacamp.com/workspace/w/ab949f18-f50d-43b4-bb97-750ec06510bd)
 - “How can the company improve collaboration” | November 2022 |      [*datacamp*](https://app.datacamp.com/workspace/w/261bd35c-a7da-46ea-91a5-fa6d6a7212fe)
 
 
