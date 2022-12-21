@@ -29,7 +29,7 @@
 <img align="right" height="250" width="375" alt="PNG" src="female-coding-in-sofa-flipped.png" />
 
 - 🎓 I hold Bachelor and Master degrees in Actuarial Science and Applied Statistics respectively
-- 💻 You can find my projects [*here*](https://yvetteekon.github.io/#portfolio)
+- 💻 You can find my data projects [*here*](https://yvetteekon.github.io/#portfolio)
 - 🎯 I’m currently working on my [*pet data project*](https://github.com/yvetteekon/user-subscription-analytics)
 - ✍️ I’m currently learning AWS cloud computing
 - 🏆 I love to participate in data-related competitions
