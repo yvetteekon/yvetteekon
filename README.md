@@ -20,7 +20,7 @@
 <a href="https://medium.com/@ykondoh">
   <img align="left" alt="Yvette's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://yvetteekon.github.io/">
+<a href="https://www.datascienceportfol.io/yvetteekon">
   <img align="left" alt="Yvette's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" />
 </a>
 <br />
@@ -29,7 +29,7 @@
 <img align="right" height="250" width="375" alt="PNG" src="female-coding-in-sofa-flipped.png" />
 
 - 🎓 I hold Bachelor and Master degrees in Actuarial Science and Applied Statistics respectively
-- 💻 You can find my data projects [*here*](https://yvetteekon.github.io/#portfolio)
+- 💻 You can find my data projects [*here*](https://www.datascienceportfol.io/yvetteekon)
 - 🎯 I’m currently working on my [*pet data project*](https://github.com/yvetteekon/user-subscription-analytics)
 - ✍️ I’m currently learning AWS cloud computing
 - 🏆 I love to participate in data-related competitions
