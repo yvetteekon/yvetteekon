@@ -30,11 +30,11 @@
 
 - 🎓 I hold Bachelor and Master degrees in Actuarial Science and Applied Statistics respectively
 - 💻 You can find my data projects [*here*](https://www.datascienceportfol.io/yvetteekon)
-<!-- - 🎯 I’m currently working on my [*pet data project*](https://github.com/yvetteekon/user-subscription-analytics) -->
-- ✍️ I’m currently learning AWS cloud computing
+- 🎯 I’m currently learning AWS cloud computing
 - 🏆 I love to participate in data-related competitions
 - 📫 You can reach me via email: *yvetteekon@gmail.com*
 - 💬 Quote I live by: **"Anything worth doing well is worth training for"** - PCO 
+- <!-- - ✍️🎯 I’m currently working on my [*pet data project*](https://github.com/yvetteekon/user-subscription-analytics) -->
 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
