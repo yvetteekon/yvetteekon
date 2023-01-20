@@ -30,7 +30,8 @@
 
 - 🎓 I hold Bachelor and Master degrees in Actuarial Science and Applied Statistics respectively
 - 💻 You can find my data projects [*here*](https://www.datascienceportfol.io/yvetteekon)
-- ✍️ I’m currently learning AWS cloud computing
+- 🌱 I’m currently learning AWS cloud computing
+- ✍️ Check out my blog posts [*here*](https://medium.com/@ykondoh)
 - 🏆 I love to participate in data-related competitions
 - 🎯 Take a look at my personal pitch deck [*here*](https://drive.google.com/file/d/1fiE_Z_L_5TGHhzP-F1G8eAR4G9uGhVV9/view?usp=sharing)
 - 💬 Quote I live by: **"Anything worth doing well is worth training for"** - PCO 
