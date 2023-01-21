@@ -30,7 +30,7 @@
 
 - 🎓 I hold Bachelor and Master degrees in Actuarial Science and Applied Statistics respectively
 - 🌱 I’m currently learning AWS cloud computing
-- 🏆 I love to solving puzzles - crossword, word, data
+- 🏆 I love solving puzzles - crossword, word, data
 - 💻 You can find my data projects [*here*](https://www.datascienceportfol.io/yvetteekon)
 - ✍️ Check out my blog posts [*here*](https://medium.com/@ykondoh)
 - 🎯 Take a look at my personal pitch deck [*here*](https://drive.google.com/file/d/1fiE_Z_L_5TGHhzP-F1G8eAR4G9uGhVV9/view?usp=sharing)
