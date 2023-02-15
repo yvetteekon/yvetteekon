@@ -43,8 +43,7 @@
 <br >
 <img align="left" width="66px" alt="PNG" src="aws-certified-cloud-practitioner.png" />
 
-<br />
----
+<br >
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
 
