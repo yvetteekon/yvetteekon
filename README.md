@@ -39,7 +39,7 @@
 <!-- - 📫 You can reach me via email: *yvetteekon@gmail.com* -->
 
 
-<img src="https://www.credly.com/badges/4159496e-4a6f-4c92-bc72-e385c0b97492/public_url">
+<!-- <img align="right" height="250" width="375" alt="PNG" src="female-coding-in-sofa-flipped.png" /> -->
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
 
