@@ -41,11 +41,9 @@
 <img src="https://media.giphy.com/media/nJ2svGMHDVvUXlxz1o/giphy.gif" width="30"> **Certifications:** 
 
 <a href="https://www.credly.com/badges/4159496e-4a6f-4c92-bc72-e385c0b97492/public_url">
-  <img align="left" alt="Yvette's Linkedin" width="22px" src="aws-certified-cloud-practitioner.png" />
+  <img align="left" alt="Yvette's Linkedin" width="66px" src="aws-certified-cloud-practitioner.png" />
 </a>
 <br />
-<!-- <img align="left" width="66px" alt="PNG" src="aws-certified-cloud-practitioner.png" />
-<br> -->
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
 
