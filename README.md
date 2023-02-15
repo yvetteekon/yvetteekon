@@ -29,7 +29,7 @@
 <img align="right" height="250" width="375" alt="PNG" src="female-coding-in-sofa-flipped.png" />
 
 - 🎓 I hold Bachelor and Master degrees in Actuarial Science and Applied Statistics respectively
-- 🌱 I’m currently learning AWS cloud computing
+- 🌱 I’m currently preparing for the Google Cloud Professional Data Engineering Exam
 - 🏆 I love solving puzzles - crossword, word, data
 - 💻 You can find my data projects [*here*](https://www.datascienceportfol.io/yvetteekon)
 - ✍️ Check out my blog posts [*here*](https://medium.com/@ykondoh)
