@@ -43,7 +43,7 @@
 <a href="https://www.credly.com/badges/4159496e-4a6f-4c92-bc72-e385c0b97492/public_url">
   <img alt="AWS Cloud Computing Certification" width="66px" src="aws-certified-cloud-practitioner.png" />
 </a>
-<br />
+<!-- <br /> -->
 <hr>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
 
