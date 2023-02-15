@@ -42,7 +42,7 @@
 <img src="https://media.giphy.com/media/nJ2svGMHDVvUXlxz1o/giphy.gif" width="30"> **Certifications:** 
 
 <a href="https://www.credly.com/badges/4159496e-4a6f-4c92-bc72-e385c0b97492/public_url">
-  <img alt="AWS Cloud Computing Certification" width="66px" src="aws-certified-cloud-practitioner.png" />
+  <img alt="AWS Cloud Computing Certification" width="70px" src="aws-certified-cloud-practitioner.png" />
 </a>
 <a href="https://www.credly.com/badges/f27af4cb-eb6e-4f7f-b1e0-044fd6fc16cc/public_url">
   <img alt="SAS Base Certification" width="66px" src="sas-certified-base-programmer-for-sas-9.png" />
