@@ -38,6 +38,7 @@
 <!-- - 🎯 I’m currently working on my [*pet data project*](https://github.com/yvetteekon/user-subscription-analytics) -->
 <!-- - 📫 You can reach me via email: *yvetteekon@gmail.com* -->
 
+<img src="https://media.giphy.com/media/nJ2svGMHDVvUXlxz1o/giphy.gif" width="30"> **Certifications:** 
 
 <img align="right" height="66" width="66" alt="PNG" src="aws-certified-cloud-practitioner.png" />
 
