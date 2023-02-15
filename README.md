@@ -35,8 +35,7 @@
 - ✍️ Check out my blog posts [*here*](https://medium.com/@ykondoh)
 - 🎯 Take a look at my personal pitch deck [*here*](https://drive.google.com/file/d/1fiE_Z_L_5TGHhzP-F1G8eAR4G9uGhVV9/view?usp=sharing)
 - 💬 Quote I live by: **"Anything worth doing is worth training for"** - *Pastor Chris Oyakhilome D.Sc. D.D*
-<!-- - 🎯 I’m currently working on my [*pet data project*](https://github.com/yvetteekon/user-subscription-analytics) -->
-<!-- - 📫 You can reach me via email: *yvetteekon@gmail.com* -->
+
 
 ---
 <img src="https://media.giphy.com/media/nJ2svGMHDVvUXlxz1o/giphy.gif" width="30"> **Certifications:** 
