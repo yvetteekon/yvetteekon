@@ -39,7 +39,7 @@
 <!-- - 📫 You can reach me via email: *yvetteekon@gmail.com* -->
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4159496e-4a6f-4c92-bc72-e385c0b97492" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img src="https://www.credly.com/badges/4159496e-4a6f-4c92-bc72-e385c0b97492/public_url">
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
 
