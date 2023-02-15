@@ -39,7 +39,7 @@
 <!-- - 📫 You can reach me via email: *yvetteekon@gmail.com* -->
 
 
-<!-- <img align="right" height="250" width="375" alt="PNG" src="female-coding-in-sofa-flipped.png" /> -->
+<!-- <img align="right" height="66" width="66" alt="PNG" src="aws-certified-cloud-practitioner.png" /> -->
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
 
