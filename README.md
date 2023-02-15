@@ -42,7 +42,10 @@
 
 <img align="left" width="66px" alt="PNG" src="aws-certified-cloud-practitioner.png" />
 
-<&nbsp />
+<div>
+  
+  
+<div\>
 
 <!-- --- -->
 
