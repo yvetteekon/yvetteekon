@@ -40,8 +40,9 @@
 
 <img src="https://media.giphy.com/media/nJ2svGMHDVvUXlxz1o/giphy.gif" width="30"> **Certifications:** 
 
+<a>
 <img align="left" width="66px" alt="PNG" src="aws-certified-cloud-practitioner.png" />
-
+<a/>
 </br >
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
