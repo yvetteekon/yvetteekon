@@ -47,7 +47,7 @@
 <a href="https://www.credly.com/badges/f27af4cb-eb6e-4f7f-b1e0-044fd6fc16cc/public_url">
   <img alt="SAS Base Certification" width="66px" src="sas-certified-base-programmer-for-sas-9.png" />
 </a>
-<br/>
+
 ---
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
 
