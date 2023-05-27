@@ -61,7 +61,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif" width="60"> Metrics
+### <img src="https://media.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif" width="30"> Metrics
 <details>
   <summary></summary>
 
