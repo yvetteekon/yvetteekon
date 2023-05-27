@@ -72,6 +72,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/SXUlog42mJ4AYkdA8w/giphy.gif" width="30"> Featured Repos
+<!-- ### <img src="https://media.giphy.com/media/SXUlog42mJ4AYkdA8w/giphy.gif" width="30"> Featured Repos -->
+### <img src="https://media.giphy.com/media/BKqOqscntEIrm/giphy.gif" width="30"> Featured Repos
 
 <br/>
