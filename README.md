@@ -39,11 +39,11 @@
 - ✈️ 2020: Relocated to the USA. **`Promoted to assistant data science manager`** and worked remotely to **`build predictive customer analytic models for a client in the micropension industry`**
 - 💼 2021: Started working as **`a marketing data scientist`** in USA, **`buiding forecast models for website engagement and clone models for precision marketing using big (1p and 3p) data`**
 - 👩‍🏫 2023: **`Mentoring`** aspiring data analysts and data scientists and started working as a **`a supply chain data scientist in a multinational company in the CPG industry`**
-
-- 🌱 I’m currently preparing for the Google Cloud Professional Data Engineering Certification Exam
+- 💬 Quote I live by: **"Anything worth doing is worth training for"** - *Rev. Dr. Chris Oyakhilome D.Sc. D.D*
+- 🌱 I’m currently improving on my software and data engineering skills, presentation skills and networking skills
 - 💻 You can find my data projects [*here*](https://www.datascienceportfol.io/yvetteekon)
 - ✍️ Check out my blog posts [*here*](https://medium.com/@ykondoh)
-- 💬 Quote I live by: **"Anything worth doing is worth training for"** - *Rev. Dr. Chris Oyakhilome D.Sc. D.D*
+
 <!-- - 🎯 Take a look at my personal pitch deck [*here*](https://drive.google.com/file/d/1fiE_Z_L_5TGHhzP-F1G8eAR4G9uGhVV9/view?usp=sharing) -->
 
 ---
