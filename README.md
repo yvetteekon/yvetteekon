@@ -31,14 +31,14 @@
 
 
 
-- 🎓 2012: Obtained Bachelor degree in **`Actuarial Science`** (K.N.U.S.T, Kumasi - Ghana)
-- 🎓 2015: Obtained Master degree in **`Applied Statistics`** (Loyola University Chicago, USA)
+- 🎓 2012: Obtained Bachelor degree in **Actuarial Science** (K.N.U.S.T, Kumasi - Ghana)
+- 🎓 2015: Obtained Master degree in **Applied Statistics** (Loyola University Chicago, USA)
 
-- 🙋‍♀️ 2016: Volunteered as **`a data analyst at a non-profit org`** in Chicago, USA, **`generating and testing hypotheses to guide business decision`**
-- 👩‍💻 2017: Started working as **`a data scientist`** in Accra, Ghana, mostly **`buiding credit score models with alternative data for clients in fintech, agritech and telco industry`**
-- ✈️ 2020: Relocated to the USA. **`Promoted to assistant data science manager`** and worked remotely to **`build predictive customer analytic models for a client in the micropension industry`**
-- 💼 2021: Started working as **`a marketing data scientist`** in USA, **`buiding forecast models for website engagement and clone models for precision marketing using big (1p and 3p) data`**
-- 👩‍🏫 2023: **`Mentoring`** aspiring data analysts and data scientists and started working as a **`a supply chain data scientist in a multinational company in the CPG industry`**
+- 🙋‍♀️ 2016: Volunteered as **a data analyst at a non-profit org** in Chicago, USA, **generating and testing hypotheses to guide business decision**
+- 👩‍💻 2017: Started working as **a data scientist** in Accra, Ghana, mostly **buiding credit score models with alternative data for clients in fintech, agritech and telco industry**
+- ✈️ 2020: Relocated to the USA. **Promoted to assistant data science manager** and worked remotely to **build predictive customer analytic models for a client in the micropension industry**
+- 💼 2021: Started working as **a marketing data scientist** in USA, **buiding forecast models for website engagement and clone models for precision marketing using big (1p and 3p) data**
+- 👩‍🏫 2023: **Mentoring** aspiring data analysts and data scientists and started working as a **a supply chain data scientist in a multinational company in the CPG industry**
 - 💬 Quote I live by: **"Anything worth doing is worth training for"** - *Rev. Dr. Chris Oyakhilome D.Sc. D.D*
 - 🌱 I’m currently improving on my software and data engineering skills, presentation skills and networking skills
 - 💻 You can find my data projects [*here*](https://www.datascienceportfol.io/yvetteekon)
