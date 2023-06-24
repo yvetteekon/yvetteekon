@@ -1,9 +1,5 @@
 ![I am GitHub Readme Generator's creator](https://github.com/yvetteekon/yvetteekon/blob/main/profile-banner.png)
 
-### Hi there! 👋
-
-### I'm [**Yvette**](https://www.linkedin.com/in/yvettekondoh/), a **`Data Scientist`** based in Carlifonia, USA. 
-
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-FDBE02.svg?style=flat&logo=github)](https://github.com/yvetteekon)
 <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=yvetteekon&style=flat&logo=github&label=Profile+Views&color=FDBE02"/>
 <img alt="FOLLOWERS" src="https://img.shields.io/github/followers/yvetteekon?color=FDBE02&logo=githubb&label=Followers"/>
@@ -28,7 +24,16 @@
 
 <img align="right" height="250" width="375" alt="PNG" src="female-coding-in-sofa-flipped.png" />
 
-- 🎓 I hold Bachelor and Master degrees in Actuarial Science and Applied Statistics respectively
+### Hi there! 👋
+
+#### I'm [**Yvette**](https://www.linkedin.com/in/yvettekondoh/), a **`Data Scientist`** with 6+ cross-industry experience working in Ghana and USA.  
+
+
+- 🎓 2012: Obtained BSc in **`Actuarial Science`** (K.N.U.S.T, Kumasi - Ghana)
+- 🎓 2015: Obtained MS in **`Applied Statistics`** (Loyola University Chicago, USA)
+
+- 🙋‍♀️ 2016: Volunteered as **`a data analyst at a non-profit org`** in Chicago, USA, **`generating and testing hypotheses to guide business decision`**
+- 👩‍💻 2017: Started working as **`a data scientist`** in Accra, Ghana, buiding credit score models with alternative data and predictive customer analytic models
 - 💻 You can find my data projects [*here*](https://www.datascienceportfol.io/yvetteekon)
 - 🌱 I’m currently preparing for the Google Cloud Professional Data Engineering Certification Exam
 - 🏆 I love solving puzzles - crossword, word, data
