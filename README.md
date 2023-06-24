@@ -14,9 +14,9 @@
 <a href="https://www.datacamp.com/profile/yvetteekon">
   <img align="left" alt="Yvette's Datacamp Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/datacamp.svg" />
 </a>
-<a href="https://github.com/yvetteekon">
+<!-- <a href="https://github.com/yvetteekon">
   <img align="left" alt="Yvette's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+</a> -->
 <a href="https://medium.com/@ykondoh">
   <img align="left" alt="Yvette's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
