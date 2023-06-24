@@ -31,8 +31,8 @@
 
 
 
-- 🎓 2012: Obtained BSc in **`Actuarial Science`** (K.N.U.S.T, Kumasi - Ghana)
-- 🎓 2015: Obtained MS in **`Applied Statistics`** (Loyola University Chicago, USA)
+- 🎓 2012: Obtained Bachelor degree in **`Actuarial Science`** (K.N.U.S.T, Kumasi - Ghana)
+- 🎓 2015: Obtained Master degree in **`Applied Statistics`** (Loyola University Chicago, USA)
 
 - 🙋‍♀️ 2016: Volunteered as **`a data analyst at a non-profit org`** in Chicago, USA, **`generating and testing hypotheses to guide business decision`**
 - 👩‍💻 2017: Started working as **`a data scientist`** in Accra, Ghana, mostly **`buiding credit score models with alternative data for clients in fintech, agritech and telco industry`**
