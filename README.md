@@ -1,5 +1,9 @@
 ![I am GitHub Readme Generator's creator](https://github.com/yvetteekon/yvetteekon/blob/main/profile-banner.png)
 
+### Hi there! 👋
+
+#### I'm [**Yvette**](https://www.linkedin.com/in/yvettekondoh/), a **`Data Scientist`** with 6+ years' cross-industry experience working in Ghana and USA.  
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-FDBE02.svg?style=flat&logo=github)](https://github.com/yvetteekon)
 <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=yvetteekon&style=flat&logo=github&label=Profile+Views&color=FDBE02"/>
 <img alt="FOLLOWERS" src="https://img.shields.io/github/followers/yvetteekon?color=FDBE02&logo=githubb&label=Followers"/>
@@ -24,19 +28,20 @@
 
 <img align="right" height="250" width="375" alt="PNG" src="female-coding-in-sofa-flipped.png" />
 
-### Hi there! 👋
 
-#### I'm [**Yvette**](https://www.linkedin.com/in/yvettekondoh/), a **`Data Scientist`** with 6+ cross-industry experience working in Ghana and USA.  
 
 
 - 🎓 2012: Obtained BSc in **`Actuarial Science`** (K.N.U.S.T, Kumasi - Ghana)
 - 🎓 2015: Obtained MS in **`Applied Statistics`** (Loyola University Chicago, USA)
 
 - 🙋‍♀️ 2016: Volunteered as **`a data analyst at a non-profit org`** in Chicago, USA, **`generating and testing hypotheses to guide business decision`**
-- 👩‍💻 2017: Started working as **`a data scientist`** in Accra, Ghana, buiding credit score models with alternative data and predictive customer analytic models
-- 💻 You can find my data projects [*here*](https://www.datascienceportfol.io/yvetteekon)
+- 👩‍💻 2017: Started working as **`a data scientist`** in Accra, Ghana, mostly **`buiding credit score models with alternative data for clients in fintech, agritech and telco industry`**
+- ✈️ 2020: Relocated to the USA. **`Promoted to assistant data science manager`** and worked remotely to **`build predictive customer analytic models for a client in the micropension industry`**
+- 💼 2021: Started working as **`a marketing data scientist`** in USA, **`buiding forecast models for website engagement and clone models for precision marketing using big (1p and 3p) data`**
+- 👩‍🏫 2023: **`Mentoring`** aspiring data analysts and data scientists and started working as a **`a supply chain data scientist in a multinational company in the CPG industry`**
+
 - 🌱 I’m currently preparing for the Google Cloud Professional Data Engineering Certification Exam
-- 🏆 I love solving puzzles - crossword, word, data
+- 💻 You can find my data projects [*here*](https://www.datascienceportfol.io/yvetteekon)
 - ✍️ Check out my blog posts [*here*](https://medium.com/@ykondoh)
 - 💬 Quote I live by: **"Anything worth doing is worth training for"** - *Rev. Dr. Chris Oyakhilome D.Sc. D.D*
 <!-- - 🎯 Take a look at my personal pitch deck [*here*](https://drive.google.com/file/d/1fiE_Z_L_5TGHhzP-F1G8eAR4G9uGhVV9/view?usp=sharing) -->
