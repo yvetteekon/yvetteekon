@@ -34,7 +34,7 @@
 - 🎓 2012: Obtained Bachelor degree in **Actuarial Science** (K.N.U.S.T, Kumasi - Ghana)
 - 🎓 2015: Obtained Master degree in **Applied Statistics** (Loyola University Chicago, USA)
 
-- 🙋‍♀️ 2016: Volunteered as **a data analyst at a non-profit org** in USA, **generating and testing hypotheses to guide business decision**
+- 🙋‍♀️ 2016: Volunteered as **a data analyst at a non-profit** in USA, **generating and testing hypotheses to guide business decision**
 - 👩‍💻 2017: Started working as **a data scientist** in Ghana, mostly **buiding credit score models with alternative data for clients in fintech, agritech and telco industry**
 - ✈️ 2020: Relocated to the USA. **Promoted to assistant data science manager** and worked remotely to **build predictive customer analytic models for a client in the micropension industry**
 - 💼 2021: Started working as **a marketing data scientist** in USA, **buiding forecast models for website engagement and clone models for precision marketing using big (1p and 3p) data**
