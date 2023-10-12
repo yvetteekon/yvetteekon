@@ -45,7 +45,7 @@
 <img src="https://media.giphy.com/media/nJ2svGMHDVvUXlxz1o/giphy.gif" width="30"> **Certifications:** 
 
 <a href="https://www.credly.com/badges/2714a6c8-512d-49fc-8c67-538e8b5f9728/public_url">
-  <img alt="AWS Certified Machine Learning – Specialty" width="70px" src="aws-certified-cloud-practitioner.png" />
+  <img alt="AWS Certified Machine Learning – Specialty" width="70px" src="aws-certified-machine-learning-specialty.png" />
 </a>
 <a href="https://www.credly.com/badges/4159496e-4a6f-4c92-bc72-e385c0b97492/public_url">
   <img alt="AWS Cloud Computing Certification" width="70px" src="aws-certified-cloud-practitioner.png" />
