@@ -21,19 +21,18 @@
 <!-- -<a href="https://www.datascienceportfol.io/yvetteekon"> -->
 <!-- -  <img align="left" alt="Yvette's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" /> -->
 <!-- -</a> -->
-<br />
+<!--<br /> -->
 
 
 <img align="right" height="250" width="375" alt="PNG" src="female-coding-in-sofa-flipped.png" />
 
 #### I'm [**Yvette**](https://www.linkedin.com/in/yvettekondoh/), a **`Data Scientist`** and **`Mentor`**.  
 
-
 - 👩🏽 Learn more about me [*here*](https://medium.com/@ykondoh/about)
 - 💻 You can find my data projects [*here*](https://www.datascienceportfol.io/yvetteekon)
 - ✍🏽 Check out my blog posts [*here*](https://medium.com/@ykondoh)
 - 🚀 Let's connect for mentorship on [*MentorCruise*](https://mentorcruise.com/mentor/yvettekondoh/?source=about_page-------------------------------------)
-- 🤝🏽 Let's connect for professional engagment on [*LinkedIn*](https://www.linkedin.com/in/yvettekondoh/?source=about_page-------------------------------------) 
+- 🤝🏽 Let's connect on [*LinkedIn*](https://www.linkedin.com/in/yvettekondoh/?source=about_page-------------------------------------) 
 
 <!-- - 🎯 Take a look at my personal pitch deck [*here*](https://drive.google.com/file/d/1fiE_Z_L_5TGHhzP-F1G8eAR4G9uGhVV9/view?usp=sharing) -->
 
