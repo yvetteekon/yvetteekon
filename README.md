@@ -1,6 +1,6 @@
 ![I am GitHub Readme Generator's creator](https://github.com/yvetteekon/yvetteekon/blob/main/Lake_Tahoe.jfif) 
 
-### Hi there! 👋
+### Hi there! 👋🏽
 
 #### I'm [**Yvette**](https://www.linkedin.com/in/yvettekondoh/), a **`Data Scientist`** with 6+ years' cross-industry experience working in Ghana and USA.  
 
