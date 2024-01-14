@@ -8,21 +8,21 @@
 <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=yvetteekon&style=flat&logo=github&label=Profile+Views&color=9cdf02"/>
 <img alt="FOLLOWERS" src="https://img.shields.io/github/followers/yvetteekon?color=9cdf02&logo=githubb&label=Followers"/>
 
-<a href="https://www.linkedin.com/in/yvettekondoh/">
-  <img align="left" alt="Yvette's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.datacamp.com/profile/yvetteekon">
-  <img align="left" alt="Yvette's Datacamp Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/datacamp.svg" />
-</a>
-<!-- <a href="https://github.com/yvetteekon">
-  <img align="left" alt="Yvette's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a> -->
-<a href="https://medium.com/@ykondoh">
-  <img align="left" alt="Yvette's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.datascienceportfol.io/yvetteekon">
-  <img align="left" alt="Yvette's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" />
-</a>
+<!-- -<a href="https://www.linkedin.com/in/yvettekondoh/"> -->
+<!-- -  <img align="left" alt="Yvette's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> -->
+<!-- -</a> -->
+<!-- -<a href="https://www.datacamp.com/profile/yvetteekon"> -->
+<!-- -  <img align="left" alt="Yvette's Datacamp Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/datacamp.svg" /> -->
+<!-- -</a> -->
+<!-- <a href="https://github.com/yvetteekon"> -->
+<!-- -  <img align="left" alt="Yvette's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<!-- -</a> -->
+<!-- -<a href="https://medium.com/@ykondoh"> -->
+<!-- -  <img align="left" alt="Yvette's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /> -->
+<!-- -</a> -->
+<!-- -<a href="https://www.datascienceportfol.io/yvetteekon"> -->
+<!-- -  <img align="left" alt="Yvette's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" /> -->
+<!-- -</a> -->
 <br />
 
 
