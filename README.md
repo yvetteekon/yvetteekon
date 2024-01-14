@@ -2,7 +2,7 @@
 
 ### Hi there! 👋🏽
 
-#### I'm [**Yvette**](https://www.linkedin.com/in/yvettekondoh/), a **`Data Scientist`** with 6+ years' cross-industry experience working in Ghana and USA.  
+#### I'm [**Yvette**](https://www.linkedin.com/in/yvettekondoh/), a **`Data Scientist`** and **`Mentor`**.  
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-9cdf02.svg?style=flat&logo=github)](https://github.com/yvetteekon)
 <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=yvetteekon&style=flat&logo=github&label=Profile+Views&color=9cdf02"/>
@@ -31,13 +31,9 @@
 
 
 
-- 🎓 I hold a bachelor's degree and master's degree in **Actuarial Science** and **Applied Statistics** respectively
-- 💼 My areas of experience include **credit score modeling** using alternative data, **predictive customer analytics modeling**, **marketing data science**, **forecast modeling**, **supply chain analytics and supply chain data science**
-- 🏭 My industries of exposure include **fintech, agritech, adtech, micropensions, consumer packaged goods (CPG)** industries
-- 👩‍🏫 I enjoy **mentoring** and **solving word puzzles**
-- 🌱 I’m currently improving on my **software and data engineering skills, presentation skills and networking skills**
+- 👩🏽 Learn about me [*here*](https://medium.com/@ykondoh/about)
 - 💻 You can find my data projects [*here*](https://www.datascienceportfol.io/yvetteekon)
-- ✍️ Check out my blog posts [*here*](https://medium.com/@ykondoh)
+- ✍🏽 Check out my blog posts [*here*](https://medium.com/@ykondoh)
 
 <!-- - 🎯 Take a look at my personal pitch deck [*here*](https://drive.google.com/file/d/1fiE_Z_L_5TGHhzP-F1G8eAR4G9uGhVV9/view?usp=sharing) -->
 
