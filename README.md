@@ -4,7 +4,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-9cdf02.svg?style=flat&logo=github)](https://github.com/yvetteekon)
 <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=yvetteekon&style=flat&logo=github&label=Profile+Views&color=9cdf02"/>
-<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/yvetteekon?color=9cdf02&logo=githubb&label=Followers"/>
+<!-- <img alt="FOLLOWERS" src="https://img.shields.io/github/followers/yvetteekon?color=#9cdf02&logo=githubb&label=Followers"/> -->
 
 <!-- -<a href="https://www.linkedin.com/in/yvettekondoh/"> -->
 <!-- -  <img align="left" alt="Yvette's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> -->
