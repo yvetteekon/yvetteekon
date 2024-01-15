@@ -32,7 +32,7 @@
 - 💻 You can find my data projects [*here*](https://www.datascienceportfol.io/yvetteekon)
 - ✍🏽 Check out my blog posts [*here*](https://medium.com/@ykondoh)
 - 🚀 Let's connect for mentorship on [*MentorCruise*](https://mentorcruise.com/mentor/yvettekondoh/)
-- 🤝🏽 Let's connect on [*LinkedIn*](https://www.linkedin.com/in/yvettekondoh/?source=about_page-------------------------------------) 
+- 🤝🏽 Let's connect on [*LinkedIn*](www.linkedin.com/in/yvettekondoh) 
 
 <!-- - 🎯 Take a look at my personal pitch deck [*here*](https://drive.google.com/file/d/1fiE_Z_L_5TGHhzP-F1G8eAR4G9uGhVV9/view?usp=sharing) -->
 
