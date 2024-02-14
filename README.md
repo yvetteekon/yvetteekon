@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/yvetteekon/yvetteekon/blob/main/Lake_Tahoe.jfif) 
+<!-- ![I am GitHub Readme Generator's creator](https://github.com/yvetteekon/yvetteekon/blob/main/Lake_Tahoe.jfif) -->
 
 ### Hi there! 👋🏽
 
