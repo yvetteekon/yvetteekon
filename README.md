@@ -19,48 +19,7 @@
 
 ## 🚀 About Me
 
-```python
-class SeniorDataScientist:
-    def __init__(self):
-        self.name = "Yvette Kondoh"
-        self.role = "Senior Data Scientist"
-        self.location = "San Jose, CA"
-        self.experience = "8+ years"
-        self.languages = ["Python", "SQL", "R"]
-        self.specialties = [
-            "Machine Learning Model Development",
-            "Credit Scoring & Risk Analytics", 
-            "Supply Chain Optimization",
-            "Customer Segmentation",
-            "Predictive & Prescriptive Modeling"
-        ]
-        self.tools = ["Tableau", "PowerBI", "AWS", "Git"]
-        self.current_impact = {
-            "supply_chain_accuracy": "+27%",
-            "operational_savings": "$2M+ in 6 months",
-            "portfolio_margin_increase": "+45%",
-            "student_mentorship": "7+ mentees"
-        }
-    
-    def get_achievements(self):
-        return [
-            "🏆 AWS Certified Machine Learning Specialist",
-            "📊 Delivered $2M+ operational savings through ML models",
-            "🎯 5th place in DataCamp Employee Attrition Competition",
-            "👥 100% first-pass rate mentoring data science students",
-            "📈 Improved credit scoring accuracy reducing risk by 40%"
-        ]
-    
-    def say_hi(self):
-        print("Passionate about turning complex data into business value!")
-
-me = SeniorDataScientist()
-me.say_hi()
-```
-
-🔭 I'm currently working on **advanced ML models for supply chain optimization** at **Kraft Heinz**  
 🌱 I'm currently expanding my expertise in **MLOps and cloud-scale deployments**  
-👯 I'm looking to collaborate on **impactful data science projects** and **open source ML tools**  
 🤔 I'm passionate about **mentoring the next generation** of data scientists  
 💬 Ask me about **credit scoring, supply chain analytics, customer segmentation, or model deployment**  
 📫 How to reach me: **[yvetteekon@gmail.com](mailto:yvetteekon@gmail.com)**  
