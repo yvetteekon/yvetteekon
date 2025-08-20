@@ -78,6 +78,14 @@
 
 </div>
 
+
+## 🔥 Featured Projects & Experience
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvetteekon&repo=supply-chain-ml-optimizer&theme=radical&hide_border=true)](https://github.com/yvetteekon/supply-chain-ml-optimizer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvetteekon&repo=credit-scoring-model&theme=radical&hide_border=true)](https://github.com/yvetteekon/credit-scoring-model)
+
 ### 🚀 Key Professional Projects
 
 #### 🏭 **Supply Chain Optimization @ Kraft Heinz** (2023-2025)
@@ -99,15 +107,6 @@
 - **Credit Scoring Model**: Engineered system reducing acceptance rates by **40%** and increasing portfolio margin by **45%**
 - **Customer Segmentation**: Led precision marketing driving **64% increase in contributions**
 - **Business Impact**: Decreased lending capital needs by **31%** through advanced risk modeling
-
-## 🔥 Featured Projects & Experience
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvetteekon&repo=supply-chain-ml-optimizer&theme=radical&hide_border=true)](https://github.com/yvetteekon/supply-chain-ml-optimizer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvetteekon&repo=credit-scoring-model&theme=radical&hide_border=true)](https://github.com/yvetteekon/credit-scoring-model)
-
-
 
 ---
 
