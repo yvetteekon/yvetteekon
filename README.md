@@ -25,6 +25,7 @@
 📫 How to reach me: **[yvetteekon@gmail.com](mailto:yvetteekon@gmail.com)**  
 ⚡ Fun fact: **I'm the President of Interpersonal Toastmasters Club - combining data storytelling with public speaking! 🎤**
 
+
 ---
 
 ## 🛠️ Technology Stack
@@ -60,29 +61,6 @@
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=yvetteekon&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvetteekon&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yvetteekon&theme=radical&hide_border=true)
-
-</div>
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yvetteekon&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
 ## 🏆 Professional Achievements & Impact
 
 <div align="center">
@@ -94,7 +72,14 @@
 | 64% increase in contributions | 60% faster delivery time | Toastmasters President |
 | 10M+ prospects scored | AWS ML Specialist certified | DataCamp 5th place |
 
+            "🏆 AWS Certified Machine Learning Specialist",
+            "📊 Delivered $2M+ operational savings through ML models",
+            "🎯 5th place in DataCamp Employee Attrition Competition",
+            "👥 100% first-pass rate mentoring data science students",
+            "📈 Improved credit scoring accuracy reducing risk by 40%"
+
 </div>
+
 
 ---
 
@@ -158,6 +143,28 @@ mindmap
       Data Storytelling
       Cross-functional Collaboration
 ```
+
+</div>
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=yvetteekon&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvetteekon&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yvetteekon&theme=radical&hide_border=true)
+
+</div>
+
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yvetteekon&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
