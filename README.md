@@ -1,81 +1,324 @@
-<!-- ![I am GitHub Readme Generator's creator](https://github.com/yvetteekon/yvetteekon/blob/main/Lake_Tahoe.jfif) -->
+# Hi there, I'm Yvette Kondoh 👋
 
-### Hi there! 👋🏽
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Senior+Data+Scientist;8%2B+Years+Experience;Machine+Learning+%7C+Python+%7C+SQL;AWS+Certified+ML+Specialist;Data+Storytelling+Expert" alt="Typing SVG" />
+</div>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-9cdf02.svg?style=flat&logo=github)](https://github.com/yvetteekon)
-<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=yvetteekon&style=flat&logo=github&label=Profile+Views&color=9cdf02"/>
-<!-- <img alt="FOLLOWERS" src="https://img.shields.io/github/followers/yvetteekon?color=#9cdf02&logo=githubb&label=Followers"/> -->
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvettekondoh)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/yvetteekon)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvetteekon@gmail.com)
+  [![AWS](https://img.shields.io/badge/AWS_Certified-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/2714a6c8-512d-49fc-8c67-538e8b5f9728/public_url)
 
-<!-- -<a href="https://www.linkedin.com/in/yvettekondoh/"> -->
-<!-- -  <img align="left" alt="Yvette's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> -->
-<!-- -</a> -->
-<!-- -<a href="https://www.datacamp.com/profile/yvetteekon"> -->
-<!-- -  <img align="left" alt="Yvette's Datacamp Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/datacamp.svg" /> -->
-<!-- -</a> -->
-<!-- <a href="https://github.com/yvetteekon"> -->
-<!-- -  <img align="left" alt="Yvette's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<!-- -</a> -->
-<!-- -<a href="https://medium.com/@ykondoh"> -->
-<!-- -  <img align="left" alt="Yvette's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /> -->
-<!-- -</a> -->
-<!-- -<a href="https://www.datascienceportfol.io/yvetteekon"> -->
-<!-- -  <img align="left" alt="Yvette's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" /> -->
-<!-- -</a> -->
-<!--<br /> -->
-
-
-<img align="right" height="250" width="375" alt="PNG" src="female-coding-in-sofa-flipped.png" />
-
-#### I'm [**Yvette**](https://www.linkedin.com/in/yvettekondoh/), a **`Data Scientist`** and **`Mentor`**.  
-
-- 👩🏽 Learn more about me [*here*](https://medium.com/@ykondoh/about)
-- 💻 You can find my data projects [*here*](https://www.datascienceportfol.io/yvetteekon)
-- ✍🏽 Check out my blog posts [*here*](https://medium.com/@ykondoh)
-- 🚀 Let's connect for mentorship on [*MentorCruise*](https://mentorcruise.com/mentor/yvettekondoh/)
-- 🤝🏽 Let's connect on [*LinkedIn*](https://www.linkedin.com/in/yvettekondoh)
-
-<!-- - 🎯 Take a look at my personal pitch deck [*here*](https://drive.google.com/file/d/1fiE_Z_L_5TGHhzP-F1G8eAR4G9uGhVV9/view?usp=sharing) -->
-
----
-<img src="https://media.giphy.com/media/nJ2svGMHDVvUXlxz1o/giphy.gif" width="30"> **Certifications:** 
-
-<a href="https://www.credly.com/badges/2714a6c8-512d-49fc-8c67-538e8b5f9728/public_url">
-  <img alt="AWS Certified Machine Learning – Specialty" width="70px" src="aws-certified-machine-learning-specialty.png" />
-</a>
-<a href="https://www.credly.com/badges/4159496e-4a6f-4c92-bc72-e385c0b97492/public_url">
-  <img alt="AWS Cloud Computing Certification" width="70px" src="aws-certified-cloud-practitioner.png" />
-</a>
-<a href="https://www.credly.com/badges/f27af4cb-eb6e-4f7f-b1e0-044fd6fc16cc/public_url">
-  <img alt="SAS Base Certification" width="66px" src="sas-certified-base-programmer-for-sas-9.png" />
-</a>
-
----
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
-
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white">
-
----
-<img src="https://media.giphy.com/media/fx65AQD9zinDzQKDws/giphy.gif" width="30"> **Data Competition:**
-
-- “Can you help reduce employee attrition?” | March 2022 |  <font color='darkgreen'>**`5th Position`**</font> [*datacamp*](https://app.datacamp.com/workspace/w/ab949f18-f50d-43b4-bb97-750ec06510bd)
-<!-- - “How can the company improve collaboration?” | November 2022 |      [*datacamp*](https://app.datacamp.com/workspace/w/261bd35c-a7da-46ea-91a5-fa6d6a7212fe) -->
-<!-- - “How can hospitals reduce readmissions?” | March 2023 |       [*datacamp*](https://app.datacamp.com/workspace/w/a2c4e79e-9cce-4e66-836d-1c1402bd111e) -->
-
+  ![Profile Views](https://komarev.com/ghpvc/?username=yvetteekon&label=Profile%20Views&color=brightgreen&style=for-the-badge)
+  
+</div>
 
 ---
 
-### <img src="https://media.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif" width="30"> Metrics
+## 🚀 About Me
+
+```python
+class SeniorDataScientist:
+    def __init__(self):
+        self.name = "Yvette Kondoh"
+        self.role = "Senior Data Scientist"
+        self.location = "San Jose, CA"
+        self.experience = "8+ years"
+        self.languages = ["Python", "SQL", "R"]
+        self.specialties = [
+            "Machine Learning Model Development",
+            "Credit Scoring & Risk Analytics", 
+            "Supply Chain Optimization",
+            "Customer Segmentation",
+            "Predictive & Prescriptive Modeling"
+        ]
+        self.tools = ["Tableau", "PowerBI", "AWS", "Git"]
+        self.current_impact = {
+            "supply_chain_accuracy": "+27%",
+            "operational_savings": "$2M+ in 6 months",
+            "portfolio_margin_increase": "+45%",
+            "student_mentorship": "7+ mentees"
+        }
+    
+    def get_achievements(self):
+        return [
+            "🏆 AWS Certified Machine Learning Specialist",
+            "📊 Delivered $2M+ operational savings through ML models",
+            "🎯 5th place in DataCamp Employee Attrition Competition",
+            "👥 100% first-pass rate mentoring data science students",
+            "📈 Improved credit scoring accuracy reducing risk by 40%"
+        ]
+    
+    def say_hi(self):
+        print("Passionate about turning complex data into business value!")
+
+me = SeniorDataScientist()
+me.say_hi()
+```
+
+🔭 I'm currently working on **advanced ML models for supply chain optimization** at **Kraft Heinz**  
+🌱 I'm currently expanding my expertise in **MLOps and cloud-scale deployments**  
+👯 I'm looking to collaborate on **impactful data science projects** and **open source ML tools**  
+🤔 I'm passionate about **mentoring the next generation** of data scientists  
+💬 Ask me about **credit scoring, supply chain analytics, customer segmentation, or model deployment**  
+📫 How to reach me: **[yvetteekon@gmail.com](mailto:yvetteekon@gmail.com)**  
+⚡ Fun fact: **I'm the President of Interpersonal Toastmasters Club - combining data storytelling with public speaking! 🎤**
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### 💻 Programming & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1E77B7?style=for-the-badge&logo=sas&logoColor=white)
+
+### 🤖 Machine Learning & AI
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 📊 Data Visualization & BI
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### ☁️ Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-FF6B6B?style=for-the-badge&logo=mlflow&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=yvetteekon&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvetteekon&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yvetteekon&theme=radical&hide_border=true)
+
+</div>
+
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yvetteekon&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🏆 Professional Achievements & Impact
+
+<div align="center">
+
+| 💼 **Business Impact** | 📊 **Technical Excellence** | 🎓 **Leadership & Growth** |
+|:---:|:---:|:---:|
+| $2M+ operational savings | 27% ML accuracy improvement | 7+ mentees guided |
+| 45% portfolio margin increase | 40% risk reduction in lending | 100% student pass rate |
+| 64% increase in contributions | 60% faster delivery time | Toastmasters President |
+| 10M+ prospects scored | AWS ML Specialist certified | DataCamp 5th place |
+
+</div>
+
+---
+
+## 🔥 Featured Projects & Experience
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvetteekon&repo=supply-chain-ml-optimizer&theme=radical&hide_border=true)](https://github.com/yvetteekon/supply-chain-ml-optimizer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvetteekon&repo=credit-scoring-model&theme=radical&hide_border=true)](https://github.com/yvetteekon/credit-scoring-model)
+
+</div>
+
+### 🚀 Key Professional Projects
+
+#### 🏭 **Supply Chain Optimization @ Kraft Heinz** (2023-2025)
+- **ML Recommendation Engine**: Developed models reducing supply chain losses with **27% accuracy improvement**
+- **Automated Rule Systems**: Created shuttle & mode flip recommendations saving **$2M+ in 6 months**
+- **Tech Stack**: Python, SQL, AWS, Machine Learning, Statistical Modeling
+
+#### 💳 **Credit Risk Analytics @ Superfluid Labs** (2017-2021)
+- **Credit Scoring Model**: Engineered system reducing acceptance rates by **40%** and increasing portfolio margin by **45%**
+- **Customer Segmentation**: Led precision marketing driving **64% increase in contributions**
+- **Business Impact**: Decreased lending capital needs by **31%** through advanced risk modeling
+
+#### 📈 **Marketing Analytics @ Wunderman Thompson** (2021-2022)
+- **Automated Forecasting**: Built models reducing delivery time by **60%** for engagement KPIs
+- **Audience Scoring**: Developed ML models scoring **10M+ campaign prospects** for insurance enrollment
+- **Tech Stack**: Python, Machine Learning, First-party & Third-party Data Integration
+
+#### 🎯 **Competition Success: DataCamp Employee Attrition** (2022)
+- **5th Place Finish**: Demonstrated advanced predictive modeling and feature engineering
+- **[View Solution](https://app.datacamp.com/workspace/w/ab949f18-f50d-43b4-bb97-750ec06510bd)**: Complete analysis and model development
+
+---
+
+## 📊 Domain Expertise
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Yvette's Data Science Expertise))
+    Machine Learning
+      Predictive Modeling
+      Prescriptive Analytics
+      Model Deployment
+      Model Monitoring
+    Business Analytics
+      Customer Segmentation
+      Credit Scoring
+      Supply Chain Optimization
+      Marketing Campaign Analysis
+    Data Engineering
+      ETL Pipelines
+      Data Warehousing
+      Cloud Architecture
+      ML Operations
+    Leadership
+      Team Mentorship
+      Stakeholder Engagement
+      Data Storytelling
+      Cross-functional Collaboration
+```
+
+</div>
+
+---
+
+## 🎯 Current Focus Areas
+
+<div align="center">
+
+| 🔬 **Research & Development** | 🏢 **Industry Applications** | 🌱 **Learning & Growth** |
+|:---:|:---:|:---:|
+| Advanced ML for Supply Chain | Financial Risk Modeling | MLOps & Model Governance |
+| Real-time Decision Systems | Customer Behavior Analytics | Cloud-Native ML Deployment |
+| Automated Model Monitoring | Precision Marketing | Advanced Statistical Methods |
+
+</div>
+
+---
+
+## 🏅 Certifications & Education
+
+<div align="center">
+
+### 🎓 **Education**
+**Master of Science: Applied Statistics** - Loyola University Chicago (2015)  
+**Bachelor of Science: Actuarial Science** - Kwame Nkrumah University of Science and Technology (2012)
+
+### 🏆 **Professional Certifications**
+[![AWS ML Specialty](https://img.shields.io/badge/AWS_ML_Specialty-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/2714a6c8-512d-49fc-8c67-538e8b5f9728/public_url)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/4159496e-4a6f-4c92-bc72-e385c0b97492/public_url)
+[![SAS Certified](https://img.shields.io/badge/SAS_Certified_Programmer-1E77B7?style=for-the-badge&logo=sas&logoColor=white)](https://www.credly.com/badges/f27af4cb-eb6e-4f7f-b1e0-044fd6fc16cc/public_url)
+
+</div>
+
+---
+
+## 🤝 Leadership & Community
+
+### 🎤 **Toastmasters International**
+- **President** - Interpersonal Toastmasters Club (July 2025 - Present)
+- **Treasurer** - (January 2024 - June 2025)
+- **Member since August 2023**
+
+### 👩‍🏫 **Data Science Mentorship**
+- **Data Mentor @ OpenClassrooms** (June 2023 - Present)
+- Mentoring 7+ students in SQL, Python, Tableau, PowerBI, and AI project management
+- Achieved **100% first-pass approval rate** for student assessments
+- Specializing in machine learning and data storytelling techniques
+
+---
+
+## 💡 What Drives Me
+
+<div align="center">
+
+> *"Data science is not just about algorithms and models - it's about translating complex data into stories that drive meaningful business decisions and create real-world impact."*
+
+**My mission**: Leveraging advanced analytics to solve complex business problems while fostering the growth of the next generation of data scientists.
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always excited to collaborate on data science projects, discuss innovative ML applications, or mentor aspiring data scientists! Whether you want to explore supply chain optimization, discuss credit risk modeling, or chat about the latest in MLOps, feel free to reach out.
+
+### 📬 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvettekondoh)
+[![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/yvetteekon)
+[![Email](https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvetteekon@gmail.com)
+
+---
+
 <details>
-  <summary></summary>
+<summary>⚡ More about my journey</summary>
 
-![GitHub metrics](https://metrics.lecoq.io/yvetteekon)  
+### 🌟 Professional Journey Highlights
+
+**🚀 Recent Role: Data Scientist @ Kraft Heinz (2023-2025)**
+- Leading ML initiatives for supply chain optimization
+- Delivering multi-million dollar operational savings through advanced analytics
+- Collaborating with cross-functional teams on data-driven strategies
+
+**📈 Previous Experience: Analytics Leadership @ Superfluid Labs (2017-2021)**
+- Built credit scoring systems from ground up for fintech applications
+- Led customer analytics driving 60%+ improvements in key metrics
+- Developed end-to-end ML solutions for agri-tech sector
+
+**🎯 Consulting & Marketing Analytics @ Wunderman Thompson (2021-2022)**
+- Automated forecasting systems for major brands
+- Built audience scoring models for insurance and healthcare sectors
+- Reduced delivery timelines while improving targeting precision
+
+### 🏆 Recognition & Awards
+- 🥉 **5th Place** - DataCamp Employee Attrition Competition (2022)
+- 🎖️ **AWS Certified ML Specialist** - Among top 5% of data professionals
+- 👥 **100% Student Success Rate** - OpenClassrooms mentorship program
+- 💰 **$2M+ Business Impact** - Supply chain optimization at Kraft Heinz
+
+### 📚 Continuous Learning Philosophy
+- Always staying current with latest ML techniques and cloud technologies
+- Active in data science communities and professional development
+- Passionate about sharing knowledge through mentorship and public speaking
+
 </details>
 
-<br/>
-
 ---
 
-<!-- ### <img src="https://media.giphy.com/media/SXUlog42mJ4AYkdA8w/giphy.gif" width="30"> Featured Repos -->
-### <img src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="30"> Featured Repos
+<div align="center">
+
+**"Turning data into insights, insights into impact, and impact into success."** ✨
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yvetteekon.yvetteekon)
+
+</div>
+
+
 
 <br/>
