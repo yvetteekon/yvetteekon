@@ -79,14 +79,7 @@
 </div>
 
 
-## 🔥 Featured Projects & Experience
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvetteekon&repo=[employee-attrition-insights&theme=radical&hide_border=true)](https://github.com/yvetteekon/employee-attrition-insights)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvetteekon&repo=credit-scoring-model&theme=radical&hide_border=true)](https://github.com/yvetteekon/credit-scoring-model)
-
-### 🚀 Key Professional Projects
+## 🚀 Key Professional Projects
 
 #### 🏭 **Supply Chain Optimization @ Kraft Heinz** (2023-2025)
 - **ML Recommendation Engine**: Developed models reducing supply chain losses with **27% accuracy improvement**
@@ -162,6 +155,6 @@ mindmap
 ---
 
 
-
+## 🔥 Featured Projects 
 
 <br/>
