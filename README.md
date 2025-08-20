@@ -85,19 +85,20 @@
 - **Automated Rule Systems**: Created shuttle & mode flip recommendations saving **$2M+ in 6 months**
 - **Tech Stack**: Python, SQL, Azure, Machine Learning, Statistical Modeling
 
-#### 💳 **Credit Risk Analytics @ Superfluid Labs** (2017-2021)
-- **Credit Scoring Model**: Engineered system reducing acceptance rates by **40%** and increasing portfolio margin by **45%**
-- **Customer Segmentation**: Led precision marketing driving **64% increase in contributions**
-- **Business Impact**: Decreased lending capital needs by **31%** through advanced risk modeling
+#### 🎯 **Competition Success: DataCamp Employee Attrition** (2022)
+- **5th Place Finish**: Demonstrated advanced predictive modeling and feature engineering
+- **[View Solution](https://app.datacamp.com/workspace/w/ab949f18-f50d-43b4-bb97-750ec06510bd)**: Complete analysis and model development
 
 #### 📈 **Marketing Analytics @ Wunderman Thompson** (2021-2022)
 - **Automated Forecasting**: Built models reducing delivery time by **60%** for engagement KPIs
 - **Audience Scoring**: Developed ML models scoring **10M+ campaign prospects** for insurance enrollment
 - **Tech Stack**: Python, Machine Learning, First-party & Third-party Data Integration
 
-#### 🎯 **Competition Success: DataCamp Employee Attrition** (2022)
-- **5th Place Finish**: Demonstrated advanced predictive modeling and feature engineering
-- **[View Solution](https://app.datacamp.com/workspace/w/ab949f18-f50d-43b4-bb97-750ec06510bd)**: Complete analysis and model development
+
+#### 💳 **Credit Risk Analytics @ Superfluid Labs** (2017-2021)
+- **Credit Scoring Model**: Engineered system reducing acceptance rates by **40%** and increasing portfolio margin by **45%**
+- **Customer Segmentation**: Led precision marketing driving **64% increase in contributions**
+- **Business Impact**: Decreased lending capital needs by **31%** through advanced risk modeling
 
 ## 🔥 Featured Projects & Experience
 
