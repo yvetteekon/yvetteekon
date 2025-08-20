@@ -145,42 +145,7 @@ mindmap
 ```
 
 </div>
----
 
-## 📈 GitHub Statistics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=yvetteekon&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvetteekon&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yvetteekon&theme=radical&hide_border=true)
-
-</div>
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yvetteekon&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
-## 🎯 Current Focus Areas
-
-<div align="center">
-
-| 🔬 **Research & Development** | 🏢 **Industry Applications** | 🌱 **Learning & Growth** |
-|:---:|:---:|:---:|
-| Advanced ML for Supply Chain | Financial Risk Modeling | MLOps & Model Governance |
-| Real-time Decision Systems | Customer Behavior Analytics | Cloud-Native ML Deployment |
-| Automated Model Monitoring | Precision Marketing | Advanced Statistical Methods |
-
-</div>
 
 ---
 
