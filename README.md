@@ -68,6 +68,7 @@
 
 ### ☁️ Cloud & Deployment
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-FF6B6B?style=for-the-badge&logo=mlflow&logoColor=white)
 
@@ -82,7 +83,7 @@
 #### 🏭 **Supply Chain Optimization @ Kraft Heinz** (2023-2025)
 - **ML Recommendation Engine**: Developed models reducing supply chain losses with **27% accuracy improvement**
 - **Automated Rule Systems**: Created shuttle & mode flip recommendations saving **$2M+ in 6 months**
-- **Tech Stack**: Python, SQL, AWS, Machine Learning, Statistical Modeling
+- **Tech Stack**: Python, SQL, Azure, Machine Learning, Statistical Modeling
 
 #### 💳 **Credit Risk Analytics @ Superfluid Labs** (2017-2021)
 - **Credit Scoring Model**: Engineered system reducing acceptance rates by **40%** and increasing portfolio margin by **45%**
