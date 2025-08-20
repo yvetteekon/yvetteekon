@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-🌱 I'm currently expanding my expertise in **MLOps and cloud-scale deployments**  
+🌱 I'm currently expanding my expertise in **GenAI, MLOps and cloud-scale deployments**  
 🤔 I'm passionate about **mentoring the next generation** of data scientists  
 💬 Ask me about **credit scoring, supply chain analytics, customer segmentation, or model deployment**  
 📫 How to reach me: **[yvetteekon@gmail.com](mailto:yvetteekon@gmail.com)**  
