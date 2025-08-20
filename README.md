@@ -83,7 +83,7 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvetteekon&repo=supply-chain-ml-optimizer&theme=radical&hide_border=true)](https://github.com/yvetteekon/supply-chain-ml-optimizer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvetteekon&repo=[employee-attrition-insights&theme=radical&hide_border=true)](https://github.com/yvetteekon/employee-attrition-insights)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvetteekon&repo=credit-scoring-model&theme=radical&hide_border=true)](https://github.com/yvetteekon/credit-scoring-model)
 
 ### 🚀 Key Professional Projects
