@@ -11,7 +11,7 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvetteekon@gmail.com)
   [![AWS](https://img.shields.io/badge/AWS_Certified-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/2714a6c8-512d-49fc-8c67-538e8b5f9728/public_url)
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=yvetteekon&label=Profile%20Views&color=brightgreen&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=yvetteekon&label=Profile%20Views&color=2F81F7&style=for-the-badge)
   
 </div>
 
