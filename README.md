@@ -1,10 +1,9 @@
 # Hi there, I'm Yvette Kondoh 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Senior+Data+Scientist;8%2B+Years+Experience;ML+%7C+DL+%7C+NLP+%7C+GenAI;Credit+Risk+Analytics;Marketing+Analytics;Supply+Chain+Analytics;Python+%7C+SQL+%7C+Git;AWS+Certified+ML+Specialist;Data+Storytelling+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Senior+Data+Scientist;8%2B+Years+Experience;ML+%7C+DL+%7C+NLP+%7C+GenAI;Python+%7C+SQL+%7C+Git;AWS+Certified+ML+Specialist;Data+Storytelling+Expert" alt="Typing SVG" />
 </div>
 
----
 
 <div align="center">
   
@@ -68,32 +67,7 @@
 
 </div>
 
----
 
-</div>
-
-
-## 🚀 Key Professional Projects
-
-#### 🏭 **Supply Chain Optimization @ Kraft Heinz** (2023-2025)
-- **ML Recommendation Engine**: Developed models reducing supply chain losses with **27% accuracy improvement**
-- **Automated Rule Systems**: Created shuttle & mode flip recommendations saving **$2M+ in 6 months**
-- **Tech Stack**: Python, SQL, Azure, Machine Learning, Statistical Modeling
-
-#### 🎯 **Competition Success: DataCamp Employee Attrition** (2022)
-- **5th Place Finish**: Demonstrated advanced predictive modeling and feature engineering
-- **[View Solution](https://app.datacamp.com/workspace/w/ab949f18-f50d-43b4-bb97-750ec06510bd)**: Complete analysis and model development
-
-#### 📈 **Marketing Analytics @ Wunderman Thompson** (2021-2022)
-- **Automated Forecasting**: Built models reducing delivery time by **60%** for engagement KPIs
-- **Audience Scoring**: Developed ML models scoring **10M+ campaign prospects** for insurance enrollment
-- **Tech Stack**: Python, Machine Learning, First-party & Third-party Data Integration
-
-
-#### 💳 **Credit Risk Analytics @ Superfluid Labs** (2017-2021)
-- **Credit Scoring Model**: Engineered system reducing acceptance rates by **40%** and increasing portfolio margin by **45%**
-- **Customer Segmentation**: Led precision marketing driving **64% increase in contributions**
-- **Business Impact**: Decreased lending capital needs by **31%** through advanced risk modeling
 
 ---
 
@@ -150,5 +124,48 @@ mindmap
 
 
 ## 🔥 Featured Projects 
+    <!-- Featured Projects Section -->
+    <section class="mb-12">
+      <h2 class="text-3xl font-bold text-gray-800 mb-6 text-center">Featured Projects</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <!-- Project 1 -->
+        <div class="bg-white rounded-lg shadow-lg p-6 hover:shadow-xl transition-shadow">
+          <h3 class="text-xl font-semibold text-gray-800 mb-2">Project One</h3>
+          <p class="text-gray-600 mb-4">A web app built with React and Tailwind CSS, showcasing a responsive dashboard with real-time data visualization.</p>
+          <div class="flex space-x-4">
+            <a href="https://github.com/yourusername/project-one" class="text-blue-500 hover:underline">GitHub</a>
+            <a href="https://yourusername.github.io/project-one" class="text-blue-500 hover:underline">Live Demo</a>
+          </div>
+        </div>
+        <!-- Project 2 -->
+        <div class="bg-white rounded-lg shadow-lg p-6 hover:shadow-xl transition-shadow">
+          <h3 class="text-xl font-semibold text-gray-800 mb-2">Project Two</h3>
+          <p class="text-gray-600 mb-4">A Python-based CLI tool for automating data processing tasks, integrated with a REST API.</p>
+          <div class="flex space-x-4">
+            <a href="https://github.com/yourusername/project-two" class="text-blue-500 hover:underline">GitHub</a>
+            <a href="https://yourusername.github.io/project-two" class="text-blue-500 hover:underline">Live Demo</a>
+          </div>
+        </div>
+        <!-- Project 3 -->
+        <div class="bg-white rounded-lg shadow-lg p-6 hover:shadow-xl transition-shadow">
+          <h3 class="text-xl font-semibold text-gray-800 mb-2">Project Three</h3>
+          <p class="text-gray-600 mb-4">A machine learning model deployed as a web app, predicting trends using TensorFlow.</p>
+          <div class="flex space-x-4">
+            <a href="https://github.com/yourusername/project-three" class="text-blue-500 hover:underline">GitHub</a>
+            <a href="https://yourusername.github.io/project-three" class="text-blue-500 hover:underline">Live Demo</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Medium Badge -->
+    <div class="text-center">
+      <a href="https://medium.com/@yourusername">
+        <img src="https://img.shields.io/badge/Medium-Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge">
+      </a>
+    </div>
+  </div>
+</body>
+</html>
 
 <br/>
