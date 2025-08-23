@@ -69,6 +69,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="32" height="32">
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="32" height="32">
 <img src="https://img.icons8.com/ios-filled/48/000000/sas.png" alt="SAS" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sas/sas-original.svg" alt="SAS" width="32" height="32">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit Learn" width="32" height="32">
 <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="32" height="32">
