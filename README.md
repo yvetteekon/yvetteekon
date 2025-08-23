@@ -83,10 +83,9 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit Learn" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit Learn" width="32" height="32">
 <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="32" height="32">
 <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="32" height="32">
-<img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter" width="32" height="32">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="32" height="32">
 
 ### 📊 Data Visualization & BI
