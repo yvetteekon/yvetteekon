@@ -6,10 +6,7 @@
 
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvettekondoh)
-  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ykondoh)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvetteekon@gmail.com)
+
 
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="32" height="32">](https://www.linkedin.com/in/yvettekondoh)
   [<img src="https://img.icons8.com/ios-filled/48/000000/medium-logo.png" alt="Medium" width="32" height="32">](https://medium.com/@ykondoh)
@@ -71,6 +68,12 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-1E77B7?style=for-the-badge&logo=sas&logoColor=white)
+
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="32" height="32">
+<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="32" height="32">
+<img src="https://img.icons8.com/color/48/000000/r-project.png" alt="R" width="32" height="32">
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="32" height="32">
+<img src="https://img.icons8.com/ios-filled/48/000000/sas.png" alt="SAS" width="32" height="32">
 
 ### 🤖 Machine Learning & AI
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
