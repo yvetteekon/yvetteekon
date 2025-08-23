@@ -124,48 +124,6 @@ mindmap
 
 
 ## 🔥 Featured Projects 
-    <!-- Featured Projects Section -->
-    <section class="mb-12">
-      <h2 class="text-3xl font-bold text-gray-800 mb-6 text-center">Featured Projects</h2>
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        <!-- Project 1 -->
-        <div class="bg-white rounded-lg shadow-lg p-6 hover:shadow-xl transition-shadow">
-          <h3 class="text-xl font-semibold text-gray-800 mb-2">Project One</h3>
-          <p class="text-gray-600 mb-4">A web app built with React and Tailwind CSS, showcasing a responsive dashboard with real-time data visualization.</p>
-          <div class="flex space-x-4">
-            <a href="https://github.com/yourusername/project-one" class="text-blue-500 hover:underline">GitHub</a>
-            <a href="https://yourusername.github.io/project-one" class="text-blue-500 hover:underline">Live Demo</a>
-          </div>
-        </div>
-        <!-- Project 2 -->
-        <div class="bg-white rounded-lg shadow-lg p-6 hover:shadow-xl transition-shadow">
-          <h3 class="text-xl font-semibold text-gray-800 mb-2">Project Two</h3>
-          <p class="text-gray-600 mb-4">A Python-based CLI tool for automating data processing tasks, integrated with a REST API.</p>
-          <div class="flex space-x-4">
-            <a href="https://github.com/yourusername/project-two" class="text-blue-500 hover:underline">GitHub</a>
-            <a href="https://yourusername.github.io/project-two" class="text-blue-500 hover:underline">Live Demo</a>
-          </div>
-        </div>
-        <!-- Project 3 -->
-        <div class="bg-white rounded-lg shadow-lg p-6 hover:shadow-xl transition-shadow">
-          <h3 class="text-xl font-semibold text-gray-800 mb-2">Project Three</h3>
-          <p class="text-gray-600 mb-4">A machine learning model deployed as a web app, predicting trends using TensorFlow.</p>
-          <div class="flex space-x-4">
-            <a href="https://github.com/yourusername/project-three" class="text-blue-500 hover:underline">GitHub</a>
-            <a href="https://yourusername.github.io/project-three" class="text-blue-500 hover:underline">Live Demo</a>
-          </div>
-        </div>
-      </div>
-    </section>
 
-    <!-- Medium Badge -->
-    <div class="text-center">
-      <a href="https://medium.com/@yourusername">
-        <img src="https://img.shields.io/badge/Medium-Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge">
-      </a>
-    </div>
-  </div>
-</body>
-</html>
 
 <br/>
