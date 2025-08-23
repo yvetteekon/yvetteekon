@@ -87,6 +87,7 @@
 <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="32" height="32">
 <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="32" height="32">
 <img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="32" height="32">
 
 ### 📊 Data Visualization & BI
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
