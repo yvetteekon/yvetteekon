@@ -10,6 +10,11 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvettekondoh)
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ykondoh)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvetteekon@gmail.com)
+
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="32" height="32">](https://www.linkedin.com/in/yvettekondoh)
+  [<img src="https://img.icons8.com/ios-filled/48/000000/medium-logo.png" alt="Medium" width="32" height="32">](https://medium.com/@ykondoh)
+  [<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="32" height="32">](mailto:yvetteekon@gmail.com)
+
   
 
   ![Profile Views](https://komarev.com/ghpvc/?username=yvetteekon&label=Profile%20Views&color=2F81F7&style=for-the-badge)
