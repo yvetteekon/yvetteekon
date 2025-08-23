@@ -131,19 +131,7 @@ mindmap
 
 
 
----
 
-## 🤝 Leadership & Community
-
-### 🎤 **Toastmasters International**
-- **President** - Interpersonal Toastmasters Club (July 2025 - Present)
-- **Treasurer** - (January 2024 - June 2025)
-- **Member since August 2023**
-
-### 👩‍🏫 **Data Science Mentorship**
-- **Data Mentor @ OpenClassrooms** (June 2023 - Present)
-- Mentoring 7+ students in SQL, Python, Tableau, PowerBI, and AI project management
-- Achieved **100% first-pass approval rate** for student assessments
 
 
 <br/>
