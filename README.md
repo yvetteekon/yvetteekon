@@ -124,9 +124,7 @@ mindmap
 
 ## 🔥 Featured Projects 
 
-<div style="background-color: #000000; color: #ffffff; padding: 20px; border-radius: 10px;">
-  <h2 align="center" style="color: #ffffff;">Featured Projects</h2>
-  <p align="center">
+
     <img src="https://readme-typing-svg.herokuapp.com?lines=Discover+my+top+GitHub+projects;Read+my+Medium+blog+for+insights&width=600&duration=3000&repeat=true&pause=0&color=ffffff" alt="Typing SVG">
   </p>
   <p align="center">
@@ -141,11 +139,6 @@ mindmap
     <!-- Project 3 -->
     <a href="https://github.com/yourusername/project-three">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-three&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00ff00" alt="Project Three">
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://medium.com/@yourusername">
-      <img src="https://img.shields.io/badge/Medium-Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge">
     </a>
   </p>
 </div>
