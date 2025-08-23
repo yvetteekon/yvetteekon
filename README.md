@@ -124,8 +124,6 @@ mindmap
 
 ## 🔥 Featured Projects 
 
-
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Discover+my+top+GitHub+projects;Read+my+Medium+blog+for+insights&width=600&duration=3000&repeat=true&pause=0&color=ffffff" alt="Typing SVG">
   </p>
   <p align="center">
     <!-- Project 1 -->
