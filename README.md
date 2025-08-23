@@ -19,6 +19,27 @@
 ---
 
 
+## 🔥 Featured Projects 
+
+  </p>
+  <p align="center">
+    <!-- Project 1 -->
+    <a href="https://github.com/yourusername/project-one">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-one&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00ff00" alt="Project One">
+    </a>
+    <!-- Project 2 -->
+    <a href="https://github.com/yourusername/project-two">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-two&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00ff00" alt="Project Two">
+    </a>
+    <!-- Project 3 -->
+    <a href="https://github.com/yourusername/project-three">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-three&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00ff00" alt="Project Three">
+    </a>
+  </p>
+</div>
+---
+
+
 ## 🏅 Certifications & Education
 
 <div align="center">
@@ -119,25 +140,5 @@ mindmap
 - Achieved **100% first-pass approval rate** for student assessments
 - Specializing in machine learning and data storytelling techniques
 
----
 
-
-## 🔥 Featured Projects 
-
-  </p>
-  <p align="center">
-    <!-- Project 1 -->
-    <a href="https://github.com/yourusername/project-one">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-one&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00ff00" alt="Project One">
-    </a>
-    <!-- Project 2 -->
-    <a href="https://github.com/yourusername/project-two">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-two&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00ff00" alt="Project Two">
-    </a>
-    <!-- Project 3 -->
-    <a href="https://github.com/yourusername/project-three">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-three&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00ff00" alt="Project Three">
-    </a>
-  </p>
-</div>
 <br/>
