@@ -42,19 +42,6 @@
 
 ---
 
-## 🏅 Certifications & Education
-
-<div align="center">
-
-### 🎓 **Education**
-**Master of Science: Applied Statistics** - Loyola University Chicago (2015)  
-**Bachelor of Science: Actuarial Science** - Kwame Nkrumah University of Science and Technology (2012)
-
-### 🏆 **Professional Certifications**
-[![AWS ML Specialty](https://img.shields.io/badge/AWS_ML_Specialty-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/2714a6c8-512d-49fc-8c67-538e8b5f9728/public_url)
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/4159496e-4a6f-4c92-bc72-e385c0b97492/public_url)
-[![SAS Certified](https://img.shields.io/badge/SAS_Certified_Programmer-1E77B7?style=for-the-badge&logo=sas&logoColor=white)](https://www.credly.com/badges/f27af4cb-eb6e-4f7f-b1e0-044fd6fc16cc/public_url)
-
 </div>
 
 
@@ -93,7 +80,18 @@
 
 </div>
 
+## 🏅 Certifications & Education
 
+<div align="center">
+
+### 🎓 **Education**
+**Master of Science: Applied Statistics** - Loyola University Chicago (2015)  
+**Bachelor of Science: Actuarial Science** - Kwame Nkrumah University of Science and Technology (2012)
+
+### 🏆 **Professional Certifications**
+[![AWS ML Specialty](https://img.shields.io/badge/AWS_ML_Specialty-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/2714a6c8-512d-49fc-8c67-538e8b5f9728/public_url)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/4159496e-4a6f-4c92-bc72-e385c0b97492/public_url)
+[![SAS Certified](https://img.shields.io/badge/SAS_Certified_Programmer-1E77B7?style=for-the-badge&logo=sas&logoColor=white)](https://www.credly.com/badges/f27af4cb-eb6e-4f7f-b1e0-044fd6fc16cc/public_url)
 
 ---
 
