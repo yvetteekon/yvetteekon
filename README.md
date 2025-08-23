@@ -85,7 +85,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Microsoft Azure" width="32" height="32">
 <img src="https://img.icons8.com/color/48/000000/databricks.png" alt="Databricks" width="32" height="32">
 <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="32" height="32">
-<img src="https://img.icons8.com/color/48/000000/mlflow.png" alt="MLOps" width="32" height="32">
+<img src="https://img.icons8.com/color/48/000000/mlflow.png" alt="MLFlow" width="32" height="32">
 
 </div>
 
