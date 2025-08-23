@@ -91,7 +91,7 @@
 
 <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="32" height="32">
 
-<img src="https://img.icons8.com/color/48/000000/mlflow.png" alt="MLFlow" width="32" height="32">
+<img src="https://github.com/mlflow/mlflow.png" alt="MLFlow" width="32" height="32">
 
 </div>
 
