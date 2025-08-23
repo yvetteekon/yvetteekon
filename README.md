@@ -69,7 +69,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="32" height="32">
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="32" height="32">
 
-<img src="https://img.icons8.com/ios-filled/48/000000/sas.png" alt="SAS" width="32" height="32">
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit Learn" width="32" height="32">
@@ -82,16 +81,15 @@
 <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="32" height="32">
 <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" width="32" height="32">
 
-<img src="https://img.icons8.com/color/48/000000/seaborn.png" alt="Seaborn" width="32" height="32">
+
 
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="32" height="32">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Microsoft Azure" width="32" height="32">
 
-<img src="https://img.icons8.com/color/48/000000/databricks.png" alt="Databricks" width="32" height="32">
+
 
 <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="32" height="32">
 
-<img src="https://github.com/mlflow/mlflow.png" alt="MLFlow" width="32" height="32">
 
 </div>
 
