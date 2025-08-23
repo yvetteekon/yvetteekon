@@ -11,7 +11,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvettekondoh)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/yvetteekon)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvetteekon@gmail.com)
-  [![AWS](https://img.shields.io/badge/AWS_Certified-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/2714a6c8-512d-49fc-8c67-538e8b5f9728/public_url)
+  [![Medium](https://img.shields.io/badge/Medium-Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yvetteekon)
 
   ![Profile Views](https://komarev.com/ghpvc/?username=yvetteekon&label=Profile%20Views&color=2F81F7&style=for-the-badge)
   
@@ -19,15 +19,6 @@
 
 ---
 
-## 🚀 About Me
-
-🌱 I'm currently expanding my expertise in **GenAI, MLOps and cloud-scale deployments**  
-🤔 I'm passionate about **mentoring the next generation** of data scientists  
-💬 Ask me about **credit scoring, supply chain analytics, customer segmentation, or model deployment**  
-📫 How to reach me: **[yvetteekon@gmail.com](mailto:yvetteekon@gmail.com)**  
-⚡ Fun fact: **I'm the President of Interpersonal Toastmasters Club - combining data storytelling with public speaking! 🎤**
-
----
 
 ## 🏅 Certifications & Education
 
