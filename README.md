@@ -1,7 +1,7 @@
 # Hi there, I'm Yvette Kondoh 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=700&height=100&lines=a+Senior+Data+Scientist;with;8%2B+Years+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=700&height=100&lines=a+Senior+Data+Scientist;with+8%2B+Years+Experience;I've+developed+and+deployed+an+ML+model;that+recommends+reactive+mitigation+actions+to+save+a+major+CPG+millions+of+dollarshelped+a+major+CPG+firm+save+millions+of+dollars+%7C+Python+%7C+SQL;AWS+Certified+ML+Specialist;Data+Storytelling+Expert" alt="Typing SVG" />
 </div>
 
 ---
