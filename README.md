@@ -70,7 +70,7 @@
 ![SAS](https://img.shields.io/badge/SAS-1E77B7?style=for-the-badge&logo=sas&logoColor=white)
 
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="32" height="32">
-<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="32" height="32">
+<img src="https://img.icons8.com/color/48/000000/mysql.png" alt="SQL" width="32" height="32">
 <img src="https://img.icons8.com/color/48/000000/r-project.png" alt="R" width="32" height="32">
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="32" height="32">
 <img src="https://img.icons8.com/ios-filled/48/000000/sas.png" alt="SAS" width="32" height="32">
