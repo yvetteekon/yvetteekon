@@ -37,7 +37,7 @@
     </a>
   </p>
 </div>
----
+
 
 
 ## 🏅 Certifications & Education
