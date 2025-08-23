@@ -63,12 +63,6 @@
 <div align="center">
 
 ### 💻 Programming & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-1E77B7?style=for-the-badge&logo=sas&logoColor=white)
-
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="32" height="32">
 <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="32" height="32">
 <img src="https://img.icons8.com/color/48/000000/snowflake.png" alt="Snowflake" width="32" height="32">
@@ -78,32 +72,19 @@
 
 
 ### 🤖 Machine Learning & AI
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit Learn" width="32" height="32">
 <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="32" height="32">
 <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="32" height="32">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="32" height="32">
 
 ### 📊 Data Visualization & BI
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="32" height="32">
 <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="32" height="32">
 <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" width="32" height="32">
 <img src="https://img.icons8.com/color/48/000000/seaborn.png" alt="Seaborn" width="32" height="32">
 
 ### ☁️ Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-FF6B6B?style=for-the-badge&logo=mlflow&logoColor=white)
+
 
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="32" height="32">
 <img src="https://img.icons8.com/color/48/000000/azure.png" alt="Microsoft Azure" width="32" height="32">
