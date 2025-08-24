@@ -26,14 +26,12 @@
 
 ## 🔥 Featured Projects 
 
-  </p>
-  <p align="center">
-    <!-- Project 1 -->
-    <a href="https://github.com/yvetteekon/employee-attrition-insights">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yvetteekon&repo=employee-attrition-insights&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00ff00" alt="Project One" width="1000" >
-    </a>
-
-  </p>
+<p align="center">
+  <!-- Project 1 -->
+  <a href="https://github.com/yvetteekon/employee-attrition-insights">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yvetteekon&repo=employee-attrition-insights&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00ff00&border=false" alt="Project One" width="1000">
+  </a>
+</p>
 </div>
 
 
