@@ -30,7 +30,7 @@
   <p align="center">
     <!-- Project 1 -->
     <a href="https://github.com/yvetteekon/employee-attrition-insights">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yvetteekon&repo=employee-attrition-insights&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00ff00" alt="Project One">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yvetteekon&repo=employee-attrition-insights&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00ff00" alt="Project One" width="2000">
     </a>
     <!-- Project 2 -->
     <a href="https://github.com/yourusername/project-two">
@@ -46,7 +46,7 @@
 
 ---
 
-## 📝 Latest Blog Posts
+## 📝 Recent Blog Posts
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ykondoh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ykondoh/0" alt="Recent Article 0"> 
 </a>
