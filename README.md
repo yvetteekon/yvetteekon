@@ -17,7 +17,7 @@
 
   
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=yvetteekon&label=Profile%20Views&color=2F81F7&style=for-the-badge)
+  ![Views](https://komarev.com/ghpvc/?username=yvetteekon&label=Profile%20Views&color=2F81F7&style=flat-square)
   
 </div>
 
