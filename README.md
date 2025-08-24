@@ -107,34 +107,7 @@
 
 ---
 
-## 📊 Domain Expertise
 
-<div align="center">
-
-```mermaid
-mindmap
-  root((Yvette's Data Science Expertise))
-    Machine Learning
-      Predictive Modeling
-      Prescriptive Analytics
-      Model Deployment
-      Model Monitoring
-    Business Analytics
-      Customer Segmentation
-      Credit Scoring
-      Supply Chain Optimization
-      Marketing Campaign Analysis
-    Data Engineering
-      ETL Pipelines
-      Data Warehousing
-      Cloud Architecture
-      ML Operations
-    Leadership
-      Team Mentorship
-      Stakeholder Engagement
-      Data Storytelling
-      Cross-functional Collaboration
-```
 
 </div>
 
