@@ -32,16 +32,9 @@
     <a href="https://github.com/yvetteekon/employee-attrition-insights">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=yvetteekon&repo=employee-attrition-insights&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00ff00" alt="Project One" width="1000" >
     </a>
-<!--     <!-- Project 2 -->
-    <a href="https://github.com/yourusername/project-two">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-two&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00ff00" alt="Project Two">
-    </a>
-    <!-- Project 3 -->
-    <a href="https://github.com/yourusername/project-three">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-three&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00ff00" alt="Project Three">
-    </a>
+
   </p>
-</div> -->
+</div>
 
 
 ---
