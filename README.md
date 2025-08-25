@@ -82,7 +82,7 @@
 
 
 </div>
-
+---
 ## 🏅 Certifications & Education
 
 <div align="center">
