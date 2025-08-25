@@ -101,23 +101,22 @@
 
 ## 🌱 Personal Brand & Growth Areas
 
-<div align="center">
 
 ### 💪**My Superpowers** 
-- 🥉**Excellence Enthusiast**: I’m all about bringing my A-Game and delivering top-notch results.
-- 🥉**Productivity Ninja**: I hack through inefficiencies like a pro, streamlining workflows to get stuff done faster (and smarter).
-- 🥉**Systems Architect**: I love crafting robust systems that hum along like a well-oiled machine, ready to scale.
-- 🥉**Creative Problem Solver**: No puzzle’s too tricky—I approach challenges with fresh ideas and a spark of curiosity.
-- 🥉**Positivity Powerhouse**: I bring good vibes to the team, keeping the mood light even when the data gets heavy.
-- 🥉**Feedback Fan**: I thrive on constructive input—it’s my fuel for growth and leveling up.
-- 🥉**Ownership Overlord**: I take responsibility like it’s my favorite playlist, owning projects from start to finish, like it’s my personal masterpiece.
+- 🏆**Excellence Enthusiast**: I’m all about bringing my A-Game and delivering top-notch results.
+- ⚡**Productivity Ninja**: I hack through inefficiencies like a pro, streamlining workflows to get stuff done faster (and smarter).
+- 🛠️**Systems Architect**: I love crafting robust systems that hum along like a well-oiled machine, ready to scale.
+- 💡**Creative Problem Solver**: No puzzle’s too tricky—I approach challenges with fresh ideas and a spark of curiosity.
+- 😄**Positivity Powerhouse**: I bring good vibes to the team, keeping the mood light even when the data gets heavy.
+- 📈**Feedback Fan**: I thrive on constructive input—it’s my fuel for growth and leveling up.
+- 🎨**Ownership Overlord**: I take responsibility like it’s my favorite playlist, owning projects from start to finish, like it’s my personal masterpiece.
 
 ### 🚀**My Growth Quests** 
-- 🥉**Communication Mastery**: Working on making my explanations as clear as a sunny day, whether it’s to stakeholders or teammates.
-- 🥉**Emotional Intelligence Boost**: Tuning into the human side of work to build stronger connections and collaboration.
-- 🥉**MLOps Mastery**: Diving deeper into the art of deploying and managing ML models like a pro.
-- 🥉**Data Engineering Adventures**: Getting cozier with pipelines and infrastructure to make data flow like a river.
-- 🥉**GenAI Explorer**: Experimenting with generative AI to unlock new creative and technical possibilities.
+- 🗣️**Communication Mastery**: Working on making my explanations as clear as a sunny day, whether it’s to stakeholders or teammates.
+- 🤝**Emotional Intelligence Boost**: Tuning into the human side of work to build stronger connections and collaboration.
+- 🤖**MLOps Mastery**: Diving deeper into the art of deploying and managing ML models like a pro.
+- 🌊**Data Engineering Adventures**: Getting cozier with pipelines and infrastructure to make data flow like a river.
+- ✨**GenAI Explorer**: Experimenting with generative AI to unlock new creative and technical possibilities.
 
 </div>
 
